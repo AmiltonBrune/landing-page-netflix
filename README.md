@@ -1,5 +1,5 @@
 # landing-page-netflix
-Aplicação Fullstack, landing page da netflix, consumindo a API da the movie db.
+Aplicação Fullstack, landing page, consumindo uma APi.
 # Landing Page Netflix
 > Uma aplicação Fullstack, recriando uma landing page da netflix e consumindo a API da the movie db.
 
