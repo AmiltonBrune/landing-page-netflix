@@ -10,7 +10,7 @@ mais interrante, porque não consumir a API da The Movie DB?
 
 Veja como ficou o resutado final:
 
-![](https://github.com/AmiltonBrune/react-calculator/blob/master/landing-page-netflix.png)
+![](https://github.com/AmiltonBrune/react-calculator/blob/master/landing-page-netflix.PNG)
 
 Link: https://amiltonbrune.github.io/react-calculator/
 
