@@ -1,12 +1,14 @@
 # landing-page-netflix
 Aplicação Fullstack, landing page, consumindo uma APi.
 # Landing Page Netflix
-> Uma aplicação Fullstack, recriando uma landing page da netflix e consumindo a API da the movie db.
+> Criando uma landing page da netflix e consumindo a API da the movie db.
 
 Mais um pouco dos estudos sobre React e dessa vez, aumentando um pouco o desafio
-criando uma landing page baseada na landing page da netflix.
+criando uma landing page baseada na landing page da netflix, e claro que para deixar o desafio um pouco
+mais interrante, porque não consumir a API da The Movie DB?
 
-Esse é o resultado final:
+
+Veja como ficou o resutado final:
 
 ![](https://github.com/AmiltonBrune/react-calculator/blob/master/landing-page-netflix.png)
 
