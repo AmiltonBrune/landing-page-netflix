@@ -17,11 +17,11 @@ Link:
 ## Instalação
 
 ```sh
-git clone https://github.com/AmiltonBrune/react-calculator.git
+git clone https://github.com/AmiltonBrune/landing-page-netflix.git
 ```
 
 ```sh
-cd react-calculator
+cd landing-page-netflix
 ```
 
 ```sh
