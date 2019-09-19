@@ -8,7 +8,7 @@ criando uma landing page baseada na landing page da netflix.
 
 Esse é o resultado final:
 
-![](https://github.com/AmiltonBrune/react-calculator/blob/master/calculadora.png)
+![](https://github.com/AmiltonBrune/react-calculator/blob/master/landing-page-netflix.png)
 
 Link: https://amiltonbrune.github.io/react-calculator/
 
