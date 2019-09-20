@@ -12,7 +12,7 @@ Veja como ficou o resutado final:
 
 ![](https://github.com/AmiltonBrune/landing-page-netflix/blob/master/landing.png)
 
-Link: 
+Link: http://landing-page-netflix.abrune.com.br/
 
 ## Instalação
 
